@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+	"version": "0.2",
+	"name": ".github",
+	"language": "en_US",
+	"description": "cSpell configuration file for the .github repository.",
+	"dictionaries": [".github"],
+	"dictionaryDefinitions": [
+		{
+			"name": ".github",
+			"path": "./.cspell/.github.txt",
+			"addWords": true
+		}
+	],
+	"minWordLength": 4
+}
