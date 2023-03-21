@@ -1,15 +1,24 @@
 # `.github`
 
-This is the default configuration repository for [wawanakwa on GitHub][gh-wawanakwa].
+*Default configuration repository for [wawanakwa on GitHub][org-wawanakwa].*
 
-# Table of Contents
+## Contributing
 
-- [`.github`](#github)
-- [Table of Contents](#table-of-contents)
-- [Licensing](#licensing)
+We don't typically take contributions to this repository, consider checking out the
+[`wawanakwa/community` repository][repo-wawanakwa-community] instead.
 
-# Licensing
+> **Note**
+> If you **DO** find an issue, don't hesitate to let us know! You can contact us through our
+> [Discord server][discord-server].
 
-The `community` repository is licensed under the [CC BY 4.0](LICENSE) license.
+## Licensing
 
-[gh-wawanakwa]: https://github.com/wawanakwa
+The `.github` repository is licensed under the [CC BY 4.0](LICENSE) license.
+
+---
+
+🎉 Thanks for reading—now go out there and have fun!
+
+[discord-server]: https://discord.gg/ySkSHpafCb
+[org-wawanakwa]: https://github.com/wawanakwa
+[repo-wawanakwa-community]: https://github.com/wawanakwa/community
